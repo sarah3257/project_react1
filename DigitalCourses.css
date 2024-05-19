@@ -1,0 +1,31 @@
+.singleCourse{
+    border: 3px solid rgb(71, 7, 7);
+    width: 50%;
+    margin:auto;
+    text-align: center;
+}
+h1{
+    color: rgb(71, 7, 7);;
+    margin:auto;
+    text-align: center;
+
+}
+.AddCourses1{
+    border: 3px solid rgb(51, 7, 148);
+    width: 20%;
+    margin:auto;
+    text-align: center; 
+    border-radius:20%;
+}
+#titelAddCours{
+    color: rgb(51, 7, 148);
+
+    font-size:150% ;
+}
+#btmFiltering{
+    width: 100%;
+    margin:auto;
+    text-align: center; 
+    background-color: rgb(71, 7, 7) ;
+    color: aliceblue;
+}
